@@ -64,34 +64,40 @@ python library_management_system.py
 ### 1. Main menu
 The program shows the menu and asks the user to enter a choice.
 
-![Main Menu](https://github.com/Rollybuilds/library_management_system/blob/8e08ad10f9d34a2eee4b2a207a79a394eae3c547/Enter%20your%20choice%20books.png)
+![Main Menu](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/ENTER_YOUR_CHOICE.png
+)
 
 ### 2. Add book (Choice 1)
 The user enters the title and author. The book gets a unique ID and is saved.
 
-![Add Book](https://github.com/Rollybuilds/library_management_system/blob/5aea32476c828f955d438eafb50538a785eaec8e/Add%20Book.png)
+![Add Book](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/BOOK%20ADDED.png
+)
 
 ### 3. Search books (Choice 2)
 The user searches by title or author, and the matching books are displayed.
 
-![Search Books](https://github.com/Rollybuilds/library_management_system/blob/5aea32476c828f955d438eafb50538a785eaec8e/Search%20Book.png)
+![Search Books](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/SEARCH.png)
 
 ### 4. Issue book (Choice 3)
 The user enters the book ID and the member name. The book is marked as issued.
 
-![Issue Book](https://github.com/Rollybuilds/library_management_system/blob/5aea32476c828f955d438eafb50538a785eaec8e/Issue%20Book.png)
+![Issue Book](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/ISSUED.png
+)
 
 ### 5. Return book (Choice 4)
 The user enters the book ID and the book becomes available again.
 
-![Return Book](https://github.com/Rollybuilds/library_management_system/blob/5aea32476c828f955d438eafb50538a785eaec8e/Return%20Book.png)
+![Return Book](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/RETURN.png
+)
 
 ### 6. Display available books (Choice 5)
 Only the books that are not issued are displayed.
 
-![Available Books](https://github.com/Rollybuilds/library_management_system/blob/5aea32476c828f955d438eafb50538a785eaec8e/Display%20book.png)
+![Available Books](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/DISPLAY.png
+)
 
 ### 7. Exit and save records (Choice 6)
 The records are saved in `books.csv` and the program closes.
 
-![Exit and Save](https://github.com/Rollybuilds/library_management_system/blob/5aea32476c828f955d438eafb50538a785eaec8e/Exit%20book.png)
+![Exit and Save](https://github.com/Nadeem7361/LIBRARY_MANAGEMENT_SYSTEM/blob/2140aa692820fca83f6fd94fc1accdbd144c68d6/EXIT_PROGRAM.png
+)
